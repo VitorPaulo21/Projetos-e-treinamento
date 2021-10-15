@@ -1,0 +1,28 @@
+
+.login{
+	
+	-fx-background-color: linear-gradient(to right, rgb(52, 148, 230), rgb(236, 110, 173));
+	
+}
+
+.titulo{
+	
+	-fx-font-size: 24px;
+	-fx-text-fill: #fff;
+	
+}
+
+.label2{
+	
+	-fx-font-size: 16px;
+	-fx-text-fill: #fff;
+	
+}
+
+.button{
+	
+	-fx-font-size: 16px;
+	-fx-text-fill: #fff;
+	-fx-color: rgb(236, 110, 173);
+	-fx-background-radius: 15px;
+}
