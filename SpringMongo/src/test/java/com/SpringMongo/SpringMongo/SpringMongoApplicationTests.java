@@ -1,0 +1,14 @@
+package com.SpringMongo.SpringMongo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringMongoApplicationTests {
+
+	@Test
+	void contextLoads() {
+		System.out.println("foi");
+	}
+
+}
