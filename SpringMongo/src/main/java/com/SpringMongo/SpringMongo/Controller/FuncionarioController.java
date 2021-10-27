@@ -54,6 +54,7 @@ public class FuncionarioController {
 		
 		funcionario.setChefe(funcionarioservice.obterPorCodico(chefe));
 
+		System.out.println("atualizado");
 		return funcionarioservice.criarFuncionario(funcionario);
 	}
 	

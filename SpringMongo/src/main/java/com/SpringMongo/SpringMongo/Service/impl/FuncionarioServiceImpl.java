@@ -38,6 +38,7 @@ public class FuncionarioServiceImpl implements FuncionarioService{
 	public Funcionario criarFuncionario(Funcionario funcionario) {
 		return funcionarioRepository.save(funcionario);
 	}
-
+	
+	
 
 }
